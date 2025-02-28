@@ -19,23 +19,23 @@ const About = () => {
         <div className="relative w-full rounded-lg bg-blue-100 p-4 ps-20 md:h-64 md:ps-48">
 
           <div className="relative h-full w-full rounded-lg bg-gray-50 p-4">
-            <p className="font-handwriting text-lg font-bold">Ola,</p>
+            <p className="font-handwriting text-lg font-bold">Hello,</p>
             <p className="">
-              <span className="mr-1">Meu nome e</span>
-              <span className="font-headline font-bold uppercase text-blue-800">Mailon Nemoto</span>
+              <span className="mr-1">Call me</span>
+              <span className="font-headline font-bold uppercase text-blue-800">Mailon</span>
             </p>
 
             <table className="mt-4 w-full text-sm">
               <tbody>
                 <tr>
                   <td className="font-headline font-bold uppercase text-blue-900">
-                    Idade:
+                    Age:
                   </td>
-                  <td>36</td>
+                  <td>37</td>
                 </tr>
                 <tr>
                   <td className="font-headline font-bold uppercase text-blue-900">
-                    Celular:
+                    Phone:
                   </td>
                   <td>
                     <a href="tel+99 999 999999" className="underline hover:text-blue-700">
@@ -55,17 +55,17 @@ const About = () => {
                 </tr>
                 <tr>
                   <td className="font-headline font-bold uppercase text-blue-900">
-                    Endereco:
+                    Location:
                   </td>
                   <td>
                     <a href="#" className="underline hover:text-blue-700">
-                      Hekinan, Aichi-ken JP
+                      Hekinan, Aichi-ken 
                     </a>
                   </td>
                 </tr>
                 <tr>
                   <td className="font-headline font-bold uppercase text-blue-900">
-                    Disponivel:
+                    Available:
                   </td>
                   <td>
                    <span className="relative flex h-3 w-3">

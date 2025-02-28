@@ -18,7 +18,7 @@ const Home = () => {
       <Contact />
     </main>
   )
-}
+} 
 
 
 export default Home

@@ -18,7 +18,7 @@ const Hero = () => {
                 </h2>
     
                 <p className="text-gray-300 my-6">
-                  Desenvolvedor Front-End React apaixonado por criar experiencia de usuarios interativas e responsivas.
+                  Desenvolvedor Web cativado por criar experiencia de usuarios interativas e responsivas. Entregando com melhor qualidade servico.
                 </p>
     
                 <div className="flex items-center gap-2">
